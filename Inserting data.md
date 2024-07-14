@@ -16,5 +16,5 @@
 The table will automatically fill in the missing data with the default value
 ### Primary key
 * An unique identifier for each value in a table\
-```CREATE TABLE table_name (id_name INT PRIMARY KEY);```
+```CREATE TABLE table_name (id_name INT PRIMARY KEY);```\
 With Auto increment: ```CREATE TABLE table_name (column_name INT AUTO_INCREMENT PRIMARY KEY );```
