@@ -9,7 +9,7 @@
 ### Quotes rule
 * Always use single quote for text 
 * Double quote inside single quote will be registered as normal string
-* Use ```/'``` to register single quote as string
+* Use ```\'``` to register single quote as string
 ### Adding default value
 ```CREATE TABLE table_name (column_name data_type DEFAULT default name); ```
 * Note: No need to define table as NOT NULL. 
